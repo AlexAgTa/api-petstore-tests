@@ -1,0 +1,26 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+.pytest?cache/
+*.py[cod]
+assets/
+report.html
+
+# Python Virtual Environment
+.venv/
+
+# IDE files (if using PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Logs and reports
+logs/
+allure-results/
+
+# Compiled Python files
+*.pyc
+
+# Environments
+.env
+
+# Miscellaneous
+.DS_Store
